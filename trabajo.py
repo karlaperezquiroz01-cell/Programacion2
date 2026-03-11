@@ -17,4 +17,3 @@ if progrma=="Vicencio":
     print("ERES TRBAJADOR",progrma)
 else:
     print("ERES USUARIO DESCONOCIDO",progrma)
-    agregar
